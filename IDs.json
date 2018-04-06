@@ -1,0 +1,19 @@
+{
+"0x": "https://blog.0xproject.com/feed/",
+"binance": "https://medium.com/feed/binanceexchange",
+"coinbase": "https://blog.coinbase.com/feed/",
+"enigma": "https://blog.enigma.co/feed/",
+"eth": "https://blog.ethereum.org/feed/",
+"origin_protocol": "https://medium.com/feed/originprotocol/",
+"iota": "https://blog.iota.org/feed/",
+"bitfinex": "https://medium.com/feed/bitfinex/",
+"ripple" : "https://ripple.com/feed/",
+"bcash" : "https://medium.com/feed/btc-com/tagged/bitcoincash",
+"ltc" : "https://blog.litecoin.org/feed",
+"stellar" : "https://www.stellar.org/feed/",
+"eos" : "https://medium.com/feed/eosio",
+"iohk" : "https://iohk.io/feed.xml",
+"vechain" : "https://medium.com/feed/@vechainofficial",
+"omg" : "https://blog.omisego.network/feed",
+"theoceanx" : "https://medium.com/feed/the-ocean-x"
+}
